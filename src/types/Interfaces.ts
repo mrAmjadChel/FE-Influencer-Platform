@@ -1,22 +1,3 @@
-// export interface Influencer {
-//   id: number;
-//   peopleId: number;
-//   category: string;
-//   primaryPlatform: string;
-//   primaryFollowers: number;
-//   totalFollowersCount: number;
-//   engagementRate: string;
-//   engagementRateTier: string;
-//   secondaryPlatform: string;
-//   secondaryFollowersCount: number;
-//   averageMonthlyReach: number;
-//   people: {
-//     fullName: string;
-//     city: string;
-//     email: string;
-//     type: string;
-//   };
-// }
 
 export interface FilterPanelProps {
   city: string;
